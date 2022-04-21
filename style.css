@@ -3,22 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .container{
     width: 95%;
     margin-bottom: 70px;
-    
+    margin-left: 20px;
 }
 
 .brand{
     font-size: 40px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
-    
-    
-    
+    vertical-align: middle;
 }
+
+.logo{
+    vertical-align: middle;
+}
+
 .btnblue{
     background-color: rgb(84, 168, 246);
     color: white;
     margin-left: 170px;
-    
+    margin-bottom: 20px;
+}
+
+.list{
+    margin-left: 30%;
 }
