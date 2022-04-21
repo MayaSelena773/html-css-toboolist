@@ -60,8 +60,13 @@ ul{
     display: inline-block;
     margin: 10px;
     width: auto;
-    height: auto;
-    border-radius: 30%;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 20px;
+
 }
 .edit{
     background-color: rgb(69, 171, 234);
