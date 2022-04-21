@@ -51,10 +51,15 @@ ul{
 }
 .greencheck{
     color: green;
-    border-width:10px ;
+    border:1px solid;
+    border-radius: 100%;
+    vertical-align: middle;
 }
 .redcross{
     color: red;
+    border: 1px solid;
+    border-radius: 100%;
+    
 }
 .box{
     display: inline-block;
