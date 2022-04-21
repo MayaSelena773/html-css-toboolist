@@ -19,14 +19,29 @@
 .logo{
     vertical-align: middle;
 }
-
+.btn{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
 .btnblue{
     background-color: rgb(84, 168, 246);
+    border-color: rgb(84, 168, 246);
     color: white;
+    padding: 5px;
     margin-left: 170px;
     margin-bottom: 20px;
+}
+.btn-white{
+    background-color: white;
+    color: rgb(226, 229, 232);
+    border-color: rgb(226, 229, 232);
+    padding: 5px;
+
 }
 
 .list{
     margin-left: 30%;
 }
+
