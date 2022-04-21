@@ -43,5 +43,41 @@
 
 .list{
     margin-left: 30%;
+    
 }
 
+ul{
+    list-style-type: none;
+}
+.greencheck{
+    color: green;
+    border-width:10px ;
+}
+.redcross{
+    color: red;
+}
+.box{
+    display: inline-block;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    border-radius: 30%;
+}
+.edit{
+    background-color: rgb(69, 171, 234);
+}
+.q1{
+    background-color: rgb(156, 114, 228);
+}
+.rec{
+    background-color: rgb(100, 192, 169);
+}
+.mob{
+    background-color: rgb(242, 158, 51);
+}
+.web{
+    background-color: rgb(216, 99, 161);
+}
+.sales{
+    background-color:rgb(176, 201, 38) ;
+}
