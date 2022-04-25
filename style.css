@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.brand{
+    font-size: 40px;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+.logo{
+    vertical-align: middle;
+}
+main {
+    background-color: rgb(246, 248, 249);
+}
+.btn{
+    display: inline-block;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.btnblue{
+    background-color: rgb(84, 168, 246);
+    border-color: rgb(84, 168, 246);
+    color: white;
+    padding: 5px;
+    margin-left: 170px;
+    margin-bottom: 20px;
+}
+.btn-white{
+    background-color: white;
+    color: rgb(226, 229, 232);
+    border-color: rgb(226, 229, 232);
+    padding: 5px;
+
+}
+
+.list{
+    margin-left: 30%;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+.greencheck{
+    color: green;
+    border:1px solid;
+    border-radius: 100%;
+    vertical-align: middle;
+}
+.redcross{
+    color: red;
+    border: 1px solid;
+    border-radius: 100%;
+    
+}
+.box{
+    display: inline-block;
+    margin: 10px;
+    width: auto;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 20px;
+
+}
+.edit{
+    background-color: rgb(69, 171, 234);
+}
+.q1{
+    background-color: rgb(156, 114, 228);
+}
+.rec{
+    background-color: rgb(100, 192, 169);
+}
+.mob{
+    background-color: rgb(242, 158, 51);
+}
+.web{
+    background-color: rgb(216, 99, 161);
+}
+.sales{
+    background-color:rgb(176, 201, 38) ;
+}
